@@ -1,0 +1,4 @@
+auto*.py
+__pycache__/
+flask-docker-app-poetry/
+flask-docker-app/

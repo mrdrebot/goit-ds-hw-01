@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "using-poetry-manager"
+version = "0.1.0"
+description = "Learn to use Poetry Manager"
+authors = ["mrdrebot <m.r.drebot.j@gmail.com>"]
+license = "MTI"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
